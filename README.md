@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Live Demo
 
-[View Live Demo](https://hassan-ali-byte.github.io/blog-preview-card-main/)
+[View Live Demo](https://blog-preview-card-fm-zeta.vercel.app/)
 
 ## My process
 
